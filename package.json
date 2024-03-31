@@ -1,0 +1,33 @@
+{
+  "name": "devscriptwhiz",
+  "version": "1.0.2",
+  "description": "devscriptwhiz",
+  "type": "module",
+  "main": "devscriptwhiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horvathdorev/devscriptwhiz"
+  },
+  "website": "https://github.com/horvathdorev/devscriptwhiz.git",
+  "keywords": [
+    "devscriptwhiz"
+  ],
+  "author": "horvathdorev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horvathdorev/devscriptwhiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/horvathdorev/devscriptwhiz#readme",
+  "dependencies": {
+    "devcraftguru": "1.0.2",
+    "programscriptwhisper": "1.0.2",
+    "codedevcraft": "1.0.2"
+  }
+}
